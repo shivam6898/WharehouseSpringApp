@@ -96,6 +96,8 @@ hs_err_pid*
 ### Java-Web ###
 ## ignoring target file
 target/
+.classpath
+.project
 
 ### Windows ###
 # Windows thumbnail cache files
